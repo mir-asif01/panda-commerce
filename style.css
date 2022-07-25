@@ -2,9 +2,15 @@
     width: 100px;
     height: 100px;
 }
-.text-white{
-    color: white;
+.card-btn{
+    background-color: #3CCF4E;
 }
 .slider-bg{
     background-color: #F7EDDB;
+}
+.btn-bg{
+    background-image: linear-gradient(to right,#72FFFF,#00D7FF);
+}
+.nav-btn-bg{
+    background-color: #D4F6CC;
 }
